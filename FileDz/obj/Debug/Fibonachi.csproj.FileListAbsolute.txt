@@ -1,0 +1,6 @@
+c:\my documents\visual studio 2017\Projects\Fibonachi\Fibonachi\bin\Debug\Fibonachi.exe.config
+c:\my documents\visual studio 2017\Projects\Fibonachi\Fibonachi\bin\Debug\Fibonachi.exe
+c:\my documents\visual studio 2017\Projects\Fibonachi\Fibonachi\bin\Debug\Fibonachi.pdb
+c:\my documents\visual studio 2017\Projects\Fibonachi\Fibonachi\obj\Debug\Fibonachi.csprojResolveAssemblyReference.cache
+c:\my documents\visual studio 2017\Projects\Fibonachi\Fibonachi\obj\Debug\Fibonachi.exe
+c:\my documents\visual studio 2017\Projects\Fibonachi\Fibonachi\obj\Debug\Fibonachi.pdb
